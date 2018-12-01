@@ -1,0 +1,3 @@
+[submodule "themes/gradient"]
+	path = themes/gradient
+	url = https://github.com/luogu-cat/Gradient.git
